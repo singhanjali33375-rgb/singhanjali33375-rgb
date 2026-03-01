@@ -1,13 +1,193 @@
-<h1 align="center">Hi 👋, I'm Anjali Singh</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Kubernetes Enthusiast | Final Year B.Tech CSE</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">🚀 Anjali Singh</h1>
 
 <p align="center">
-🔥 67+ Real-World DevOps Projects Completed  
-📈 Continuous Learner Since Nov 2025  
-⚡ Automation | Scalability | Reliability Focused  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud-Native+DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+CI%2FCD;AWS+%7C+Azure+%7C+GCP;67%2B+Production-Level+Projects;Event-Driven+Architecture+Designer;DevSecOps+%7C+eBPF+Security;Final+Year+B.Tech+CSE&center=true&width=800&height=45">
 </p>
 
 ---
+
+# 🧠 Professional Identity
+
+Cloud-Native DevOps Engineer focused on designing scalable, automated, secure production-grade systems.
+
+🎓 Final Year B.Tech (Computer Science Engineering)  
+🔥 67+ Real-World DevOps & Cloud Projects Since Nov 2025  
+⚡ Strong Discipline, Consistency & Deep Technical Curiosity  
+🚀 Specializing in Kubernetes, Terraform, CI/CD, Observability & DevSecOps  
+
+---
+
+# 💪 Work Ethic & Journey
+
+Started my DevOps journey in November 2025 with limited confidence but strong determination.
+
+Through daily hands-on practice, lab-based learning, and production-style projects, I have:
+
+✔ Completed 67+ Advanced DevOps Projects  
+✔ Built End-to-End Production Pipelines  
+✔ Designed Secure Cloud Architectures  
+✔ Implemented Runtime Threat Detection using eBPF  
+✔ Created Monitoring & Observability Platforms  
+✔ Practiced DevSecOps & Ethical Hacking Fundamentals  
+
+I believe consistency beats motivation.
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud Platforms
+AWS • Azure • GCP  
+EKS • AKS • GKE  
+AWS Lambda • Azure Functions  
+
+## 🚀 Containers & Orchestration
+Docker  
+Docker Compose  
+Kubernetes  
+Helm  
+Istio  
+Kubernetes Runtime Security (eBPF)
+
+## 🔄 CI/CD & Automation
+Jenkins  
+GitHub Actions  
+Azure DevOps  
+End-to-End CI/CD Pipeline  
+Multi-Stage Docker CI/CD  
+
+## 📊 Monitoring & Observability
+Prometheus  
+Grafana  
+Loki  
+ELK Stack  
+Serverless Monitoring  
+Cloud Observability Platforms  
+
+## 🔐 DevSecOps & Security
+OWASP Top 10 Defense  
+CTF DevOps Labs  
+Automated Penetration Testing Pipeline  
+Malware Analysis Fundamentals  
+Runtime Threat Detection (eBPF)  
+
+## 🏗 Infrastructure as Code
+Terraform (AWS / Serverless / Microservices)  
+Three-Tier Secure Cloud Architecture  
+FinOps & Cloud Cost Optimization  
+
+---
+
+# 💻 Programming Languages
+
+Python  
+Java  
+C++  
+C  
+SQL  
+HTML  
+CSS  
+JavaScript  
+Bash / Shell Scripting  
+
+---
+
+# 📂 Featured Projects (Sample Highlights)
+
+🔹 Awesome Deep Learning  
+🔹 Production-Grade Full Stack DevOps Web App  
+🔹 End-to-End CI/CD Pipeline (Jenkins + GitHub Actions)  
+🔹 Kubernetes Advanced Beyond Basic  
+🔹 Kubernetes Runtime Security using eBPF  
+🔹 Cloud-Based E-Commerce Platform  
+🔹 AWS Serverless Book Recommendation System  
+🔹 Blockchain Voting System  
+🔹 Face Recognition Attendance System  
+🔹 IoT Cloud Energy Monitor  
+🔹 DevSecOps Automated Pen Testing Pipeline  
+🔹 Three-Tier Secure Cloud Infrastructure  
+🔹 Cloud Observability Monitoring Platform  
+🔹 AWS Event-Driven DevOps Architecture  
+🔹 Dockerized Django & Node.js Applications  
+
+(Add GitHub repo links here manually under each title)
+
+---
+
+# 🏗 Architecture Diagram Section
+
+You can upload architecture diagrams inside a folder named:
+
+/architecture-diagrams/
+
+Then display like this:
+
+<p align="center">
+  <img src="architecture-diagrams/your-architecture.png" width="700">
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+(For snake animation you must enable GitHub Action separately.)
+
+---
+
+# 📜 Certifications
+
+✔ Cisco Networking  
+✔ Linux & Shell Scripting  
+✔ DevOps & CI/CD Training  
+✔ Cloud Fundamentals  
+✔ Cybersecurity Foundations  
+✔ DevSecOps Labs  
+✔ Monitoring & Observability  
+
+(Add actual certificate names if available)
+
+---
+
+# 🌍 Connect With Me
+
+GitHub: https://github.com/singhanjali33375-rgb  
+LinkedIn: https://www.linkedin.com/in/anjali-singh-895b84275 
+Email: singhanjali33375@gmail.com 
+Phone: +91-7439450091  
+YouTube: https://youtube.com/@i_m_anjali75
+
+---
+
+# 🎯 Career Objective
+
+To work as a Cloud-Native DevOps Engineer building secure, scalable, observable distributed systems and continuously mastering production architecture.
+
+---
+
+⭐ “Consistency + Discipline + Real Projects = Real DevOps Engineer”
 
 # 👨‍💻 Professional Summary
 
@@ -86,16 +266,29 @@ From zero confidence to building full DevOps pipelines independently — this jo
 ✅ DevOps Project Documentation  
 
 ---
+# 👨‍💻 About Me
+    I am a Final Year B.Tech Computer Science Engineer specializing in Cloud-Native DevOps, Infrastructure Automation, and Secure Scalable Architectures.
 
-# 📚 Certifications & Learning
+Since November 2025, I have consistently built production-oriented DevOps systems.  
+Through disciplined execution and continuous learning, I have successfully completed **67+ real-world projects** across Cloud, Kubernetes, CI/CD, Monitoring, Security, and Serverless domains.
 
-🎓 Multiple DevOps & Cloud Certifications  
-📜 Cisco Networking Basics  
-📜 Linux & Shell Scripting Certifications  
-📜 CI/CD & Cloud Training Certificates  
-📖 Continuous Hands-On Practice & Lab Projects  
+My technical focus areas include:
 
----
+• Cloud-Native Application Design  
+• Event-Driven Architecture (AWS Lambda, API Gateway)  
+• Kubernetes Advanced & Runtime Security (eBPF)  
+• Infrastructure as Code (Terraform)  
+• End-to-End CI/CD Automation  
+• Observability & Monitoring Platforms  
+• Secure Cloud DevOps Platforms  
+
+I believe in building systems that are:
+
+✔ Scalable  
+✔ Automated  
+✔ Observable  
+✔ Secure  
+✔ Production-Ready
 
 # 📊 GitHub Stats
 
@@ -106,18 +299,4 @@ From zero confidence to building full DevOps pipelines independently — this jo
 </p>
 
 ---
-
-# 🎯 Career Objective
-
-To work in a growth-oriented organization where I can contribute to building scalable cloud-native systems and continuously enhance my DevOps expertise.
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn: Add Your Link  
-📧 Email: your-email@gmail.com  
-
----
-
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
