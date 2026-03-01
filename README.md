@@ -1,4 +1,3 @@
-<!-- Animated Typing Header -->
 <h1 align="center">🚀 Anjali Singh</h1>
 
 <p align="center">
@@ -111,52 +110,6 @@ Bash / Shell Scripting
 🔹 AWS Event-Driven DevOps Architecture  
 🔹 Dockerized Django & Node.js Applications  
 
-(Add GitHub repo links here manually under each title)
-
----
-
-# 🏗 Architecture Diagram Section
-
-You can upload architecture diagrams inside a folder named:
-
-/architecture-diagrams/
-
-Then display like this:
-
-<p align="center">
-  <img src="architecture-diagrams/your-architecture.png" width="700">
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=7" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
-(For snake animation you must enable GitHub Action separately.)
-
----
-
 # 📜 Certifications
 
 ✔ Cisco Networking  
@@ -167,44 +120,17 @@ Then display like this:
 ✔ DevSecOps Labs  
 ✔ Monitoring & Observability  
 
-(Add actual certificate names if available)
-
----
-
 # 🌍 Connect With Me
 
-GitHub: https://github.com/singhanjali33375-rgb  
-LinkedIn: https://www.linkedin.com/in/anjali-singh-895b84275 
-Email: singhanjali33375@gmail.com 
-Phone: +91-7439450091  
-YouTube: https://youtube.com/@i_m_anjali75
-
----
-
-# 🎯 Career Objective
-
-To work as a Cloud-Native DevOps Engineer building secure, scalable, observable distributed systems and continuously mastering production architecture.
-
----
+GitHub: https://github.com/singhanjali33375-rgb          
+LinkedIn: https://www.linkedin.com/in/anjali-singh-895b84275         
+Email: singhanjali33375@gmail.com         
+Phone: +91-7439450091       
+YouTube: https://youtube.com/@i_m_anjali75      
+Instagram: 1_anjali_singh_    
 
 ⭐ “Consistency + Discipline + Real Projects = Real DevOps Engineer”
 
-# 👨‍💻 Professional Summary
-
-I am a Final Year Computer Science Engineering student deeply passionate about DevOps, Cloud Infrastructure, and Automation Engineering.
-
-Since November 2025, I have consistently worked on real-world DevOps projects and successfully completed **67+ hands-on projects**, ranging from CI/CD pipelines to Kubernetes production deployments.
-
-I believe in:
-
-✔ Automation over manual work  
-✔ Infrastructure as Code over traditional setup  
-✔ Monitoring before scaling  
-✔ Learning by building real projects  
-
-I am currently preparing for a DevOps / Cloud Engineer role and actively building production-grade systems.
-
----
 
 # 📈 My DevOps Journey
 
