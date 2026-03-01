@@ -16,6 +16,8 @@ Cloud-Native DevOps Engineer focused on designing scalable, automated, secure pr
 🚀 Specializing in Kubernetes, Terraform, CI/CD, Observability & DevSecOps  
 
 ---
+PROFILE
+Cloud & DevOps Engineer with hands-on experience in implementing DevSecOps practices and building secure, scalable cloud-native solutions. Skilled in designing end-to-end CI/CD pipelines using GitHub Actions, automating infrastructure on AWS with Terraform (Infrastructure as Code), and deploying containerized applications using Docker and Kubernetes. Experienced in monitoring and observability using Prometheus, Grafana, and Loki, with foundational knowledge of Linux, networking, and cloud security. Passionate about automation, system reliability, and continuous learning to contribute effectively to high-performing engineering teams.
 
 # 💪 Work Ethic & Journey
 
@@ -74,9 +76,7 @@ Runtime Threat Detection (eBPF)
 ## 🏗 Infrastructure as Code
 Terraform (AWS / Serverless / Microservices)  
 Three-Tier Secure Cloud Architecture  
-FinOps & Cloud Cost Optimization  
-
----
+FinOps & Cloud Cost Optimization    
 
 # 💻 Programming Languages
 
@@ -88,9 +88,7 @@ SQL
 HTML  
 CSS  
 JavaScript  
-Bash / Shell Scripting  
-
----
+Bash / Shell Scripting    
 
 # 📂 Featured Projects (Sample Highlights)
 
@@ -127,9 +125,7 @@ LinkedIn: https://www.linkedin.com/in/anjali-singh-895b84275
 Email: singhanjali33375@gmail.com         
 Phone: +91-7439450091       
 YouTube: https://youtube.com/@i_m_anjali75      
-Instagram: 1_anjali_singh_    
-
-⭐ “Consistency + Discipline + Real Projects = Real DevOps Engineer”
+Instagram: https://www.instagram.com/1_anjali_singh_     
 
 
 # 📈 My DevOps Journey
@@ -193,11 +189,11 @@ From zero confidence to building full DevOps pipelines independently — this jo
 
 ---
 # 👨‍💻 About Me
-    I am a Final Year B.Tech Computer Science Engineer specializing in Cloud-Native DevOps, Infrastructure Automation, and Secure Scalable Architectures.
+    I, ANJALI SINGH  a student of Final Year B.Tech Computer Science Engineer specializing in Cloud-Native DevOps, Infrastructure Automation, and Secure Scalable Architectures, Kubernetes, DevSecops, Terraform, CI/CD, AWS
 
 Since November 2025, I have consistently built production-oriented DevOps systems.  
 Through disciplined execution and continuous learning, I have successfully completed **67+ real-world projects** across Cloud, Kubernetes, CI/CD, Monitoring, Security, and Serverless domains.
-
+        
 My technical focus areas include:
 
 • Cloud-Native Application Design  
@@ -219,9 +215,9 @@ I believe in building systems that are:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhanjali33375-rgb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=singhanjali33375-rgb&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanjali33375-rgb&layout=compact&theme=radical" />
 </p>
 
 ---
