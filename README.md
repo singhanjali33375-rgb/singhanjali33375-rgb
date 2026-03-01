@@ -212,13 +212,4 @@ I believe in building systems that are:
 ✔ Secure  
 ✔ Production-Ready
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhanjali33375-rgb&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=singhanjali33375-rgb&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanjali33375-rgb&layout=compact&theme=radical" />
-</p>
-
----
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
